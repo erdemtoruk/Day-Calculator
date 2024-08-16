@@ -8,7 +8,7 @@ The program checks whether the input date is valid and then determines the corre
 **Date Validation:** The program validates whether the entered date is correct, considering leap years and month lengths.<br>
 **Day Calculation:** Given a valid date, the program calculates which day of the week it corresponds to.
 
-### How It Works
+## How It Works
 
 The program works in the following steps:
 
@@ -24,11 +24,11 @@ The program works in the following steps:
    - The `calculate_day` function calculates the day of the week by determining the total number of days passed since a reference date.<br>
    - It then maps this total to the corresponding day of the week, using an array of strings to represent the days.
 
-#### Acknowledgements
+### Acknowledgements
 
 I would like to express my gratitude to the **Ahmet Yasir Göktepe** and **Emir Berber** for their support and contributions to this project.<br>
 Thank you for your valuable input and assistance in making this project possible.
 
-##### License
+### License
 
 This project licensed with MIT license.
