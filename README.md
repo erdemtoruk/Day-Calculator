@@ -1,6 +1,6 @@
 # Day-Calculator
 
-This porject contains a C program that calculates the day of week for a given date.<br>
+This project contains a C program that calculates the day of week for a given date.<br>
 The program checks whether the input date is valid and then determines the corresponding day of the week using a custom algorithm.
 
 ## Features
